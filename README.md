@@ -4,7 +4,7 @@
 This project focuses on the early detection of Parkinson's Disease (PD) using acoustic vocal analysis. Parkinson's is a progressive neurodegenerative disorder where early diagnosis is crucial but often delayed. Vocal impairment, also known as Dysphonia, is an early indicator of PD. By analyzing voice recordings, this model aims to provide a low-cost, early screening tool, potentially diagnosing patients years before traditional clinical observations.
 
 ## Prediction Target
-The model performs a binary classification to predict the probability of a patient having Parkinson's Disease:
+The model performs a binary classification to predict the probability of a patient having Parkinson's Disease. The binary values indicates,
 *   **0:** Healthy (No Disease)
 *   **1:** Having Parkinson's Disease
 
